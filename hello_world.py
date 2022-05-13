@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-print('Hello World!')
-=======
-print("Hello world!")
->>>>>>> courseINT/master
+print("Hello World!")
+print("Hello from feature")
+
